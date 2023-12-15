@@ -1,13 +1,11 @@
 #ifndef PREPROCESS_H
 #define PREPROCESS_H
 
-#include "../common.h"
+namespace inference_framework
+{
 class ModelInput {
-/* function */
-public:
-private:
-/* parameter */
-public:
-private:
-};
+
+};    
+} // namespace inference_framework
+
 #endif
