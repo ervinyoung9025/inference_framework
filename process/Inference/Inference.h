@@ -21,10 +21,12 @@ private:
 };
 
 class Inference : public Base {
+public:
+    Inference();
+    virtual ~Inference();
 };
     
 } // namespace inference
 } // namespace inference_framework
-
 
 #endif
