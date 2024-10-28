@@ -16,7 +16,7 @@ public:
     Base();
     virtual ~Base();
 private:
-    std::string modelPath;
+    std::string model_path;
     
 };
 
